@@ -1,0 +1,20 @@
+[
+  {
+    "title": "pava electrica liliana",
+    "price": 15800,
+    "thumbnail": "url",
+    "id": 1
+  },
+  {
+    "title": "celular samsung s20fe",
+    "price": 180560,
+    "tumbnail": "url",
+    "id": 2
+  },
+  {
+    "title": "heladera patrick inverter",
+    "price": 129450,
+    "thumbnail": "url",
+    "id": 3
+  }
+]
